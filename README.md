@@ -3,12 +3,7 @@
 
 
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
-
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+This repository houses directories with each required programming lab for Calc/Analytic Geom II MATH-3025-01.
 
 ## Features
 
