@@ -12,7 +12,7 @@ This repository houses directories with each required programming lab for Calc/A
 
 Within each given directory is a Jupyter notebook (.ipynb) which has HTML5 code to render the assignment answers in a legible concise manner.
 
-<This is a test
+> This is a test
 
 This text you see here is *actually- written in Markdown! To get a feel
 for Markdown's syntax, type some text into the left window and
