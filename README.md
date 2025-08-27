@@ -1,7 +1,4 @@
 # Calculus II Computer Labs
-## _The Last Markdown Editor, Ever_
-
-
 
 This repository houses directories with each required programming lab for Calc/Analytic Geom II MATH-3025-01.
 
