@@ -13,9 +13,7 @@ This repository houses directories with each required programming lab for Calc/A
 Within each given directory is a Jupyter notebook (.ipynb) which has HTML5 code to render the assignment answers in a legible concise manner.
 
 > Jupyter notebooks support the use of HTML5, CSS, and JavaScript as long as it's within the bounds of MyST MarkDown.
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
+
 
 ## Tech
 
