@@ -10,9 +10,7 @@ This repository houses directories with each required programming lab for Calc/A
 - Area Between Curves
 - Volumes
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
+Within each given directory is a Jupyter notebook (.ipynb) which has HTML5 code to render the assignment answers in a legible concise manner.
 
 > The overriding design goal for Markdown's
 > formatting syntax is to make it as readable
