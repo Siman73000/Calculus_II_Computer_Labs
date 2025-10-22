@@ -5,7 +5,8 @@ This repository houses directories with each required programming lab for Calc/A
 ## Mathematical Concepts
 
 - Derivatives
-- Integrals
+- Limits
+- Integrals (Improper, Definite, and Indefinite)
 - U Substitution
 - Area Between Curves
 - Volumes
