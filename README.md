@@ -9,6 +9,9 @@ This repository houses directories with each required programming lab for Calc/A
 - U Substitution
 - Area Between Curves
 - Volumes
+- Paradoxes
+- Series
+- Sequences
 
 Within each given directory is a Jupyter notebook (.ipynb) which has HTML5 code to render the assignment answers in a legible concise manner.
 
